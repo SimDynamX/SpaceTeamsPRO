@@ -1,4 +1,4 @@
-# Space Teams PRO
+# Space Teams PRO GitHub
 Public-facing website for technical user documentation, discussions, and bug tracking for Space Teams PRO®. The source code of the core of Space Teams PRO is proprietary; you can make an account and try Space Teams for yourself at https://www.SpaceTeamsPRO.com.
 
 ### To see Space Teams documentation, go to [the Wiki tab](https://github.com/SimDynamX/SpaceTeamsPro/wiki).
